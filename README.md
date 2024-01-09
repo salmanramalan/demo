@@ -7,3 +7,4 @@ here and move alot
 ## Local Dev
 
 1. Open index.html in your browser
+2. add 
